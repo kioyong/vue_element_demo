@@ -1,5 +1,7 @@
 # demo5
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kioyong/vue_element_demo.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
